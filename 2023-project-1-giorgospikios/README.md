@@ -1,1 +1,1 @@
-https://k08.chatzi.org/projects/project1/
+https://k08.chatzi.org/2023/projects/project1/
